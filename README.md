@@ -6,6 +6,9 @@
  
      This project uses the MERN stack which is composed of MongoDB, Express, React, and Node. We learned about how to convert Rest API to Apollo server and use GraphQL to view and make queries and mutations.
 
+## Link to Deployed App
+https://sheltered-dawn-29605-f8ed4d646ef0.herokuapp.com/
+
 
    ## Table of Contents
 
@@ -35,7 +38,7 @@
 
   ## Usage <a name="usage"></a>
 
- <p> On the app you can login and  search for books and save them to your user profile. You can also edit, and delete books from your saved list.</p>
+ <p> On the app you can login or sign up using a username, email, and password and search for books and save them to your user profile. You can also edit, and delete books from your saved list. You can only see your saved books list when you are logged in. Logout using the logout button.</p>
 
 
   ## Contributing <a name="contributing"></a>
